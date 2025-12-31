@@ -1,0 +1,13 @@
+﻿# .git.bak folders
+gkebook-school-frontend/.git.bak/
+prj-gkebook-go-backend/.git.bak/
+prj-gkebook-shadcn-frontend1/.git.bak/
+
+# node_modules
+**/node_modules/
+
+# Other common ignores
+.env
+.env.local
+*.log
+.DS_Store
